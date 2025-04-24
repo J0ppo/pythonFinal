@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pydeck as pdk
 import streamlit as st
 from PIL import Image
-import seaborn as sns
+# import seaborn as sns
 
 def difference(a, b):
     return abs(a - b)
